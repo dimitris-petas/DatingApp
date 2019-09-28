@@ -11,3 +11,4 @@ C:\Users\gdpet\Source\Repos\DatingApp\backend\datingApp.api\datingApp.api\obj\De
 C:\Users\gdpet\Source\Repos\DatingApp\backend\datingApp.api\datingApp.api\obj\Debug\netcoreapp2.2\datingApp.api.RazorTargetAssemblyInfo.cache
 C:\Users\gdpet\Source\Repos\DatingApp\backend\datingApp.api\datingApp.api\obj\Debug\netcoreapp2.2\datingApp.api.dll
 C:\Users\gdpet\Source\Repos\DatingApp\backend\datingApp.api\datingApp.api\obj\Debug\netcoreapp2.2\datingApp.api.pdb
+C:\Users\gdpet\Source\Repos\DatingApp\backend\datingApp.api\datingApp.api\obj\Debug\netcoreapp2.2\datingApp.api.csprojAssemblyReference.cache

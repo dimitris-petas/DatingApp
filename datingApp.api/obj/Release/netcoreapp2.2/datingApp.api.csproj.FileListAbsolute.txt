@@ -1,0 +1,6 @@
+C:\Users\gdpet\Source\Repos\DatingApp\backend\datingApp.api\datingApp.api\obj\Release\netcoreapp2.2\datingApp.api.csprojAssemblyReference.cache
+C:\Users\gdpet\Source\Repos\DatingApp\backend\datingApp.api\datingApp.api\obj\Release\netcoreapp2.2\datingApp.api.csproj.CoreCompileInputs.cache
+C:\Users\gdpet\Source\Repos\DatingApp\backend\datingApp.api\datingApp.api\obj\Release\netcoreapp2.2\datingApp.api.RazorAssemblyInfo.cache
+C:\Users\gdpet\Source\Repos\DatingApp\backend\datingApp.api\datingApp.api\obj\Release\netcoreapp2.2\datingApp.api.RazorAssemblyInfo.cs
+C:\Users\gdpet\Source\Repos\DatingApp\backend\datingApp.api\datingApp.api\obj\Release\netcoreapp2.2\datingApp.api.AssemblyInfoInputs.cache
+C:\Users\gdpet\Source\Repos\DatingApp\backend\datingApp.api\datingApp.api\obj\Release\netcoreapp2.2\datingApp.api.AssemblyInfo.cs
